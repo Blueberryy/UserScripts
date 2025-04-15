@@ -14,8 +14,8 @@
 // @description:de    Fügen Sie beim Durchsuchen der Skriptliste nach dem Skriptnamen eine Skriptbewertung hinzu
 // @name:el           Greasyfork Σενάριο για εμφάνιση βαθμολογιών
 // @description:el    Προσθέστε βαθμολογία σεναρίου μετά το όνομα σεναρίου κατά την περιήγηση στη λίστα σεναρίων
-// @name:en           Greasyfork Script to display ratings
-// @description:en    Add script rating after script name when browsing script list
+// @name:en           Greasyfork Script Display Rating
+// @description:en    Adds script rating after script name in script list.
 // @name:eo           Greasyfork Skripto por montri taksojn
 // @description:eo    Aldonu skriptrangigon post skriptonomo kiam foliumas skriptliston
 // @name:es           Greasyfork Script para mostrar calificaciones
@@ -50,8 +50,8 @@
 // @description:pt-BR Adicione a classificação do script após o nome do script ao navegar na lista de scripts
 // @name:ro           Greasyfork Script pentru afișarea evaluărilor
 // @description:ro    Adăugați evaluarea scriptului după numele scriptului când răsfoiți lista de scripturi
-// @name:ru           Greasyfork Скрипт для отображения рейтингов
-// @description:ru    Добавить рейтинг сценария после имени сценария при просмотре списка сценариев.
+// @name:ru           Greasyfork: отображение рейтинга скрипта
+// @description:ru    Добавляет рейтинг скрипта после названия в списке скриптов.
 // @name:sk           Greasyfork Skript na zobrazenie hodnotení
 // @description:sk    Pri prehliadaní zoznamu skriptov pridajte hodnotenie skriptu za názov skriptu
 // @name:sr           Greasyfork Скрипта за приказ оцена
@@ -76,7 +76,7 @@
 // @description:fr-CA Ajouter une note de script après le nom du script lors de la navigation dans la liste des scripts
 // @namespace         https://github.com/ChinaGodMan/UserScripts
 // @version           1.3.3.63
-// @description       Add the script rating after the script name when browsing the script list
+// @description       Adds script rating after script name in script list.
 // @author            人民的勤务员 <china.qinwuyuan@gmail.com>
 // @match             https://greasyfork.org/*
 // @match             https://sleazyfork.org/*
