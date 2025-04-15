@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name              GreasyFork User-published script data visualization
-// @description       Use Chart.js to obtain and visualize user script data, and generate a chart on the user’s personal homepage to display the detailed installation
+// @description       Use Chart.js to obtain and visualize user script data and generate a chart on the user’s personal homepage to display the detailed installation.
 // @name:zh-CN        GreasyFork 用户发布的脚本数据可视化
 // @description:zh-CN 使用Chart.js获取和可视化获取用户脚本数据，并在用户个人主页生成一个图表在下方显示详细安装情况
 // @name:ar           GreasyFork تصور البيانات النصية التي ينشرها المستخدم
