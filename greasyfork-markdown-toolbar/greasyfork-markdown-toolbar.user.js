@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name              Markdown toolbar for GreasyFork
+// @name              GreasyFork markdown
 // @name:zh-CN        GreasyFork markdown
 // @description:zh-CN 在论坛默认使用格式为Markdown，添加格式帮助链接及在发布新脚本,回复时间启用快速编辑的工具栏
 // @name:ar           GreasyFork markdown
@@ -15,7 +15,7 @@
 // @name:el           GreasyFork markdown
 // @description:el    Η προεπιλεγμένη μορφή που χρησιμοποιείται στο φόρουμ είναιMarkdown，Προσθήκη συνδέσμου βοήθειας μορφής και δημοσίευση νέου σεναρίου,Γραμμή εργαλείων χρόνου απάντησης με ενεργοποιημένη τη γρήγορη επεξεργασία
 // @name:en           GreasyFork markdown
-// @description:en    The default format used in the forum isMarkdown，Add format help link and publish new script,Reply time toolbar with quick editing enabled
+// @description:en    Select Markdown format by default, add help links, add toolbar formatting buttons for markdown.
 // @name:eo           GreasyFork markdown
 // @description:eo    La defaŭlta formato uzata en la forumo estasMarkdown，Aldonu formatan helpligon kaj publikigu novan skripton,Ilobreto de responda tempo kun rapida redaktado ebligita
 // @name:es           GreasyFork markdown
@@ -50,8 +50,8 @@
 // @description:pt-BR O formato padrão usado no fórum éMarkdown，Adicionar link de ajuda de formato e publicar novo script,Barra de ferramentas de tempo de resposta com edição rápida habilitada
 // @name:ro           GreasyFork markdown
 // @description:ro    Formatul implicit folosit în forum esteMarkdown，Adăugați linkul de ajutor pentru format și publicați un nou script,Bara de instrumente pentru timpul de răspuns cu editarea rapidă activată
-// @name:ru           GreasyFork markdown
-// @description:ru    Формат по умолчанию, используемый на форуме:Markdown，Добавьте ссылку на справку по формату и опубликуйте новый скрипт.,Панель инструментов времени ответа с включенным быстрым редактированием
+// @name:ru           GreasyFork: Markdown
+// @description:ru    Формат по умолчанию на форуме: Markdown, добавляет ссылку на справку по форматированию и публикацию нового скрипта, панель инструментов времени ответа с включённым быстрым редактированием.
 // @name:sk           GreasyFork markdown
 // @description:sk    Predvolený formát používaný vo fóre jeMarkdown，Pridajte odkaz na pomoc s formátom a publikujte nový skript,Panel s nástrojmi času odpovede s povolenou rýchlou úpravou
 // @name:sr           GreasyFork markdown
@@ -75,7 +75,7 @@
 // @name:fr-CA        GreasyFork markdown
 // @description:fr-CA Le format par défaut utilisé dans le forum estMarkdown，Ajouter un lien d’aide au format et publier un nouveau script,Barre d’outils de temps de réponse avec édition rapide activée
 // @namespace         https://github.com/ChinaGodMan/UserScripts
-// @description       Select Markdown format by default, add help links, add toolbar formatting buttons for markdown
+// @description       Select Markdown format by default, add help links, add toolbar formatting buttons for Markdown.
 // @author            wOxxOm, darkred, 人民的勤务员 <china.qinwuyuan@gmail.com>
 // @contributor       JixunMoe
 // @contributor       人民的勤务员 <china.qinwuyuan@gmail.com>
