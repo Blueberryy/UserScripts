@@ -270,6 +270,11 @@
                 dailyInstallsText = `해당 사용자의 모든 스크립트에 대한 오늘의 총 설치 횟수: ${daily}`
                 totalInstallsText = `해당 사용자의 모든 스크립트에 대한 총 설치 횟수: ${total}`
                 break
+            case 'ru':
+                publishedScriptsNumber = `Число опубликованных скриптов: ${publishedScriptsNumber}`
+                dailyInstallsText = `Всего ежедневных установок всех скриптов: ${daily}`
+                totalInstallsText = `Всего установок всех скриптов за сегодня: ${total}`
+                break
             default:
                 publishedScriptsNumber = `Number of published scripts: ${publishedScriptsNumber}`
                 dailyInstallsText = `Total daily installations for all scripts: ${daily}`
