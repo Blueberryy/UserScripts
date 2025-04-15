@@ -50,8 +50,8 @@
 // @description:pt-BR para Greasyfork Fornece várias funções de uso，tempo absoluto，Ecrã panorâmico da Web，Melhorias na página de script，Baixar extensão，Reparo do painel e uma série de operações
 // @name:ro           Greasyfork Meșter de lipici
 // @description:ro    pentru Greasyfork Furnizați diverse funcții de utilizare，timp absolut，Ecran lat web，Îmbunătățiri ale paginii de script，Descărcați extensia，Reparatie panouri si o serie de operatii
-// @name:ru           Greasyfork Мастер по клею
-// @description:ru    для Greasyfork Обеспечить различные функции использования，абсолютное время，Интернет широкоэкранный，Улучшения страницы скрипта，Скачать расширение，Ремонт панели и ряд операций
+// @name:ru           Greasyfork: набор утилит
+// @description:ru    Даёт для Greasyfork различные функции использования, абсолютное время, широкоэкранные веб-страницы, улучшения страницы скрипта, скачивание расширения, исправления панели и ряд другого.
 // @name:sk           Greasyfork Lepidlo remeselník
 // @description:sk    pre Greasyfork Poskytujte rôzne funkcie používania，absolútny čas，Web širokouhlý，Vylepšenia stránky skriptov，Stiahnite si rozšírenie，Oprava panelov a séria operácií
 // @name:sr           Greasyfork Мајстор лепка
