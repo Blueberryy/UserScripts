@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name              GreasyFork User-published script data visualization
-// @description       useChart.jsObtaining and visualizing user script data，And generate a chart on the user’s personal homepage to display the detailed installation
+// @description       Use Chart.js to obtain and visualize user script data, and generate a chart on the user’s personal homepage to display the detailed installation
 // @name:zh-CN        GreasyFork 用户发布的脚本数据可视化
 // @description:zh-CN 使用Chart.js获取和可视化获取用户脚本数据，并在用户个人主页生成一个图表在下方显示详细安装情况
 // @name:ar           GreasyFork تصور البيانات النصية التي ينشرها المستخدم
@@ -51,8 +51,8 @@
 // @description:pt-BR usarChart.jsObtendo e visualizando dados de script do usuário，E gere um gráfico na página inicial pessoal do usuário para exibir o status detalhado da instalação abaixo.
 // @name:ro           GreasyFork Vizualizarea datelor scripturilor publicate de utilizator
 // @description:ro    utilizareChart.jsObținerea și vizualizarea datelor de script utilizator，Și generați o diagramă pe pagina de pornire personală a utilizatorului pentru a afișa mai jos starea detaliată a instalării.
-// @name:ru           GreasyFork Визуализация данных сценария, опубликованного пользователем.
-// @description:ru    использоватьChart.jsПолучение и визуализация данных пользовательского сценария，И создайте диаграмму на личной домашней странице пользователя, чтобы отобразить подробный статус установки ниже.
+// @name:ru           GreasyFork: визуализация данных скрипта, опубликованного пользователем
+// @description:ru    Использует Chart.js для получения и визуализации данных пользовательского скрипта и создаёт диаграмму на личной странице пользователя, чтобы отобразить подробный статус установки ниже.
 // @name:sk           GreasyFork Používateľom publikovaná vizualizácia dát skriptu
 // @description:sk    použitieChart.jsZískavanie a vizualizácia údajov používateľského skriptu，A vygenerujte graf na osobnej domovskej stránke používateľa, ktorý zobrazí podrobný stav inštalácie nižšie.
 // @name:sr           GreasyFork Визуелизација података скрипте коју је објавио корисник
