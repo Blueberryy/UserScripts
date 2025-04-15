@@ -15,7 +15,7 @@
 // @name:el           GreasyFork Search
 // @description:el    Αναζήτηση χρησιμοποιώντας το GoogleGreasyForkκαιSleazyForkπάνω σενάριο
 // @name:en           GreasyFork Search
-// @description:en    Search using GoogleGreasyForkandSleazyForkupper script
+// @description:en    Use Google to search on GreasyFork and SleazyFork in script's main text.
 // @name:eo           GreasyFork Search
 // @description:eo    Serĉu per GugloGreasyForkkajSleazyForksupra manuskripto
 // @name:es           GreasyFork Search
@@ -50,8 +50,8 @@
 // @description:pt-BR Pesquise usando o GoogleGreasyForkeSleazyForkscript superior
 // @name:ro           GreasyFork Search
 // @description:ro    Căutați folosind GoogleGreasyForkşiSleazyForkscriptul superior
-// @name:ru           GreasyFork Search
-// @description:ru    Поиск с помощью GoogleGreasyForkиSleazyForkверхний сценарий
+// @name:ru           GreasyFork: поиск
+// @description:ru    Поиск с помощью Google на GreasyFork и SleazyFork в основных текстах скрипта.
 // @name:sk           GreasyFork Search
 // @description:sk    Hľadajte pomocou GoogleGreasyForkaSleazyForkhorné písmo
 // @name:sr           GreasyFork Search
@@ -76,7 +76,7 @@
 // @description:fr-CA Rechercher avec GoogleGreasyForketSleazyForkécriture supérieure
 // @namespace         https://github.com/ChinaGodMan/UserScripts
 // @version           0.6.5.23
-// @description       To search scripts using Google Search
+// @description       Use Google to search on GreasyFork and SleazyFork in script's main text.
 // @author            CY Fung , 人民的勤务员 <china.qinwuyuan@gmail.com>
 // @match             https://greasyfork.org/*
 // @match             https://sleazyfork.org/*
